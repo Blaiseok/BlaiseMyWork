@@ -17,7 +17,7 @@ const customData = {
     },
     {
       label: 'Reporter:',
-      value: '<a href="https://www.npmjs.com/package/multiple-cucumber-html-reporter" ' +
+      value: '<a href="https://www.volvocars.com/intl/v/car-safety/a-million-more" ' +
         'target="_blank">cucumber-reporter</a>'
     },
   ]
